@@ -65,9 +65,18 @@ Before running the project, ensure you have the following installed:
 
 ### Issue: Images Don’t Display or Script Runs Slowly
 
-- Check that your MATLAB environment has sufficient memory for processing large images or many particles.
-- To improve performance, reduce the number of particles (`npart`) or the number of frames being processed.
-```
+## References
+
+- **For more information on particle filter algorithms**, refer to:
+  - Doucet, A., de Freitas, N., & Gordon, N. (Eds.). (2001). *Sequential Monte Carlo Methods in Practice*. Springer.
+
+- **MATLAB documentation** provides additional resources on using MATLAB for particle filtering and image processing:
+  - Visit the [MATLAB Documentation](https://www.mathworks.com/help/matlab/) for details.
+
+- **Performance tips**:
+  - Ensure your MATLAB environment has sufficient memory for processing large images or many particles.
+  - Reduce the number of particles (`npart`) or the number of frames processed to improve performance.
+
 
 ---
 
