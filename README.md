@@ -1,4 +1,6 @@
-
+---
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/3991b95d-511f-4853-985e-9369cb996fd2)
+---
 # Particle Filter Snake Tracking
 
 This project implements a **particle filter** algorithm to track a snake in a sequence of images. The algorithm uses a set of particles, randomly distributed across the image, to estimate the snake's position based on image measurements. Over time, the particles adjust their positions to align more accurately with the snake in each subsequent frame.
